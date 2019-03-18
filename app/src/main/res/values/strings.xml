@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TimeToLearn</string>
+    <string name="logo">Logo Time To Learn</string>
+    <string name="textView_merah">Merah</string>
+    <string name="textView_hijau">Hijau</string>
+    <string name="textView_biru">Biru</string>
+    <string name="textView_kuning">Kuning</string>
+    <string name="textView_barissatu">Baris Satu</string>
+    <string name="editText_barisdua">Baris Dua</string>
+    <string name="button_baristiga">Baris Tiga</string>
+    <string name="textView_barisempat">Baris Empat</string>
+    <string name="editText_name">Name</string>
+    <string name="editText_email">Email</string>
+    <string name="editText_subject">Subject</string>
+    <string name="editText_message">Message</string>
+    <string name="button_Submit">Submit</string>
+
+    <string-array name="options">
+        <item>Bonaventura Jason - Linear Layout Kick</item>
+        <item>Bonaventura Jason - Relative Layout Punch</item>
+        <item>Bonaventura Jason - Card View Sidekick</item>
+    </string-array>
+</resources>
